@@ -24,7 +24,7 @@ Datasets can be acquired via following links:
 ## Setting up the datasets
 
 ```
-./DSH-Net/
+./LP-Swin/
 ./DATASET/
   ├── nnUNet_raw/
        ├── nnUNet_raw_data/
@@ -43,7 +43,7 @@ export nnUNet_results="/root/autodl-tmp/nnUNet_results"
 
 
 
-## How does DSH-Net?
+## How does LP-Swin?
 First we need to convert the MSD dataset format conversion to the format supported by the nnUNetv2 framework（You can refer to the usage of nnUNetv2）
 
 ```
