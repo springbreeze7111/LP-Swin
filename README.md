@@ -1,4 +1,4 @@
-# Welcome to the DSH-Net
+# Welcome to the LP-Swin
 
 ## Installation
 
