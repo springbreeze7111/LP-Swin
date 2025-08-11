@@ -1,5 +1,9 @@
 # Welcome to the LP-Swin
 
+# News
+[8/11/2025] LP-Swin, this code is directly related to our manuscript currently submitted to The Visual Computer. If you use this code or find it helpful in your research, please cite the following paper:
+[LP-Swin: Enhancing MRI Brain Tumor Segmentation through Laplacian Pyramid-Guided Swin Transformer], The Visual Computer, [Year].
+
 ## Installation
 
 We recommend installation of the required packages using the conda package manager, available through the Anaconda Python distribution. Anaconda is available free of charge for non-commercial use through [Anaconda Inc](https://www.anaconda.com/products/individual). After installing Anaconda and cloning this repository, For use as integrative framework：
