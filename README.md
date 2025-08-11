@@ -2,7 +2,15 @@
 
 # News
 [8/11/2025] LP-Swin, this code is directly related to our manuscript currently submitted to The Visual Computer. If you use this code or find it helpful in your research, please cite the following paper:
-[LP-Swin: Enhancing MRI Brain Tumor Segmentation through Laplacian Pyramid-Guided Swin Transformer], The Visual Computer, [Year].
+[LP-Swin: Enhancing MRI Brain Tumor Segmentation through Laplacian Pyramid-Guided Swin Transformer], The Visual Computer, [2025].
+
+@article{Jiang2025,
+  title={LP-Swin: Enhancing MRI Brain Tumor Segmentation through Laplacian Pyramid-Guided Swin Transformer},
+  author={Jie Jiang},
+  journal={The Visual Computer},
+  year={2025},
+  doi={DOI_PLACEHOLDER}
+}
 
 ## Installation
 
